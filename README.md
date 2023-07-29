@@ -1,0 +1,1 @@
+# ProjectOgrenciKayitYönetimiCore
